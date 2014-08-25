@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thrilling Dogfort Comic Builder</string>
+    <string name="crime_title_hint">Give this comic a title</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Caption</string>
+    <string name="crime_solved_label">Solved?</string>
+    <string name="crimes_title">Comics</string>
+    <string name="date_picker_title">Date of crime:</string>
+	<string name="new_crime">New Comic</string>
+	<string name="show_subtitle">Show Subtitle</string>
+	<string name="hide_subtitle">Hide Subtitle</string>
+	<string name="subtitle">cry havoc</string>
+	<string name="delete_crime">Delete</string>    
+
+</resources>
